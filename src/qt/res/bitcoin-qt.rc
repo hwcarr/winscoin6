@@ -4,11 +4,11 @@ IDI_ICON2 ICON DISCARDABLE "icons/bitcoin_testnet.ico"
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
 
-#define VER_PRODUCTVERSION     CLIENT_VERSION_MAJOR,CLIENT_VERSION_MINOR,CLIENT_VERSION_RETECHNOCOIN,CLIENT_VERSION_BUILD
-#define VER_PRODUCTVERSION_STR STRINGIZE(CLIENT_VERSION_MAJOR) "." STRINGIZE(CLIENT_VERSION_MINOR) "." STRINGIZE(CLIENT_VERSION_RETECHNOCOIN) "." STRINGIZE(CLIENT_VERSION_BUILD)
+#define VER_PRODUCTVERSION     CLIENT_VERSION_MAJOR,CLIENT_VERSION_MINOR,CLIENT_VERSION_REWINSTARRXCOIN,CLIENT_VERSION_BUILD
+#define VER_PRODUCTVERSION_STR STRINGIZE(CLIENT_VERSION_MAJOR) "." STRINGIZE(CLIENT_VERSION_MINOR) "." STRINGIZE(CLIENT_VERSION_REWINSTARRXCOIN) "." STRINGIZE(CLIENT_VERSION_BUILD)
 #define VER_FILEVERSION        VER_PRODUCTVERSION
 #define VER_FILEVERSION_STR    VER_PRODUCTVERSION_STR
-#define COPYRIGHT_STR          "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin developers 2011-" STRINGIZE(COPYRIGHT_YEAR) " The Winstarrxcoin developers 2021 Technocoin Developers"
+#define COPYRIGHT_STR          "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin developers 2011-" STRINGIZE(COPYRIGHT_YEAR) " The Winstarrxcoin developers 2021 Winstarrxcoin Developers"
 
 VS_VERSION_INFO VERSIONINFO
 FILEVERSION     VER_FILEVERSION
@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Technocoin"
-            VALUE "FileDescription",    "Technocoin-Qt (OSS GUI client for Technocoin)"
+            VALUE "CompanyName",        "Winstarrxcoin"
+            VALUE "FileDescription",    "Winstarrxcoin-Qt (OSS GUI client for Winstarrxcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "technocoin-qt"
+            VALUE "InternalName",       "winstarrxcoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "technocoin-qt.exe"
-            VALUE "ProductName",        "Technocoin-Qt"
+            VALUE "OriginalFilename",   "winstarrxcoin-qt.exe"
+            VALUE "ProductName",        "Winstarrxcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

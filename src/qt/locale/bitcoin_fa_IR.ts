@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Technocoin</source>
+        <source>About Winstarrxcoin</source>
         <translation>در مورد بیتکویین</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Technocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Technocoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Winstarrxcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Winstarrxcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Technocoin developers</source>
+        <source>The Winstarrxcoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,7 +62,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Technocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Winstarrxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Technocoin address</source>
+        <source>Sign a message to prove you own a Winstarrxcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Technocoin address</source>
+        <source>Verify a message to ensure it was signed with a specified Winstarrxcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Technocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Winstarrxcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -243,7 +243,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TECHNOCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WINSTARRXCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Technocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your technocoins from being stolen by malware infecting your computer.</source>
-        <translation>Technocoin برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
+        <source>Winstarrxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your winstarrxcoins from being stolen by malware infecting your computer.</source>
+        <translation>Winstarrxcoin برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Technocoin</source>
-        <translation>اطلاعات در مورد Technocoin را نشان بده</translation>
+        <source>Show information about Winstarrxcoin</source>
+        <translation>اطلاعات در مورد Winstarrxcoin را نشان بده</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Technocoin address</source>
+        <source>Send coins to a Winstarrxcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Technocoin</source>
-        <translation>اصلاح انتخابها برای پیکربندی Technocoin</translation>
+        <source>Modify configuration options for Winstarrxcoin</source>
+        <translation>اصلاح انتخابها برای پیکربندی Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Technocoin</source>
-        <translation>technocoin</translation>
+        <source>Winstarrxcoin</source>
+        <translation>winstarrxcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,7 +475,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Technocoin</source>
+        <source>&amp;About Winstarrxcoin</source>
         <translation>&amp;در مورد بیتکویین</translation>
     </message>
     <message>
@@ -495,12 +495,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Technocoin addresses to prove you own them</source>
+        <source>Sign messages with your Winstarrxcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Technocoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Winstarrxcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -531,14 +531,14 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Technocoin client</source>
-        <translation>مشتری technocoin</translation>
+        <source>Winstarrxcoin client</source>
+        <translation>مشتری winstarrxcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Technocoin network</source>
-        <translation><numerusform>%n ارتباط فعال به شبکه Technocoin
-%n ارتباط فعال به شبکه Technocoin</numerusform></translation>
+        <source>%n active connection(s) to Winstarrxcoin network</source>
+        <translation><numerusform>%n ارتباط فعال به شبکه Winstarrxcoin
+%n ارتباط فعال به شبکه Winstarrxcoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -649,7 +649,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Technocoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Winstarrxcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -664,7 +664,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Technocoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Winstarrxcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -730,8 +730,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Technocoin address.</source>
-        <translation>آدرس وارد شده &quot;%1&quot; یک آدرس صحیح برای technocoin نسشت</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Winstarrxcoin address.</source>
+        <translation>آدرس وارد شده &quot;%1&quot; یک آدرس صحیح برای winstarrxcoin نسشت</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -749,7 +749,7 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Technocoin-Qt</source>
+        <source>Winstarrxcoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -812,12 +812,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Technocoin after logging in to the system.</source>
+        <source>Automatically start Winstarrxcoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Technocoin on system login</source>
+        <source>&amp;Start Winstarrxcoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -837,7 +837,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Technocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Winstarrxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -847,7 +847,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Technocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Winstarrxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -922,7 +922,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Technocoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Winstarrxcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -932,12 +932,12 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>Choose the default subditechnocoin unit to show in the interface and when sending coins.</source>
+        <source>Choose the default subdiwinstarrxcoin unit to show in the interface and when sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Technocoin addresses in the transaction list or not.</source>
+        <source>Whether to show Winstarrxcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -989,7 +989,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Technocoin.</source>
+        <source>This setting will take effect after restarting Winstarrxcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1008,8 +1008,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Technocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه technocoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Winstarrxcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه winstarrxcoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1062,7 +1062,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start technocoin: click-to-pay handler</source>
+        <source>Cannot start winstarrxcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1213,7 +1213,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Technocoin-Qt help message to get a list with possible Technocoin command-line options.</source>
+        <source>Show the Winstarrxcoin-Qt help message to get a list with possible Winstarrxcoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1233,12 +1233,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Technocoin - Debug window</source>
+        <source>Winstarrxcoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Technocoin Core</source>
+        <source>Winstarrxcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1248,7 +1248,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Technocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Winstarrxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1258,8 +1258,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Technocoin RPC console.</source>
-        <translation>به کنسول آر.پی.سی. TECHNOCOIN خوش آمدید</translation>
+        <source>Welcome to the Winstarrxcoin RPC console.</source>
+        <translation>به کنسول آر.پی.سی. WINSTARRXCOIN خوش آمدید</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1442,8 +1442,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس technocoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>یک آدرس winstarrxcoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1466,7 +1466,7 @@ Address: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس technocoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>یک آدرس winstarrxcoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1507,7 +1507,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Technocoin address</source>
+        <source>Sign the message to prove you own this Winstarrxcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1539,11 +1539,11 @@ Address: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس technocoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>یک آدرس winstarrxcoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Technocoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Winstarrxcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1559,8 +1559,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس technocoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>یک آدرس winstarrxcoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1569,7 +1569,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Technocoin signature</source>
+        <source>Enter Winstarrxcoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1643,7 +1643,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Technocoin developers</source>
+        <source>The Winstarrxcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2181,8 +2181,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Technocoin version</source>
-        <translation>نسخه technocoin</translation>
+        <source>Winstarrxcoin version</source>
+        <translation>نسخه winstarrxcoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2191,8 +2191,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or technocoind</source>
-        <translation>ارسال دستور به سرور یا technocoined</translation>
+        <source>Send command to -server or winstarrxcoind</source>
+        <translation>ارسال دستور به سرور یا winstarrxcoined</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2211,13 +2211,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: technocoin.conf)</source>
-        <translation>فایل پیکربندیِ را مشخص کنید (پیش فرض: technocoin.conf)</translation>
+        <source>Specify configuration file (default: winstarrxcoin.conf)</source>
+        <translation>فایل پیکربندیِ را مشخص کنید (پیش فرض: winstarrxcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: technocoind.pid)</source>
-        <translation>فایل pid  را مشخص کنید (پیش فرض: technocoind.pid)</translation>
+        <source>Specify pid file (default: winstarrxcoind.pid)</source>
+        <translation>فایل pid  را مشخص کنید (پیش فرض: winstarrxcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2294,13 +2294,13 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=technocoinrpc
+rpcuser=winstarrxcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Winstarrxcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2316,7 +2316,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Technocoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Winstarrxcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2361,7 +2361,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Technocoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Winstarrxcoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2611,7 +2611,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Technocoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Winstarrxcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2801,13 +2801,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Technocoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Winstarrxcoin</source>
         <translation>خطا در هنگام لود شدن wallet.dat.  به نسخه جدید Bitocin برای wallet نیاز است.</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Technocoin to complete</source>
-        <translation>wallet نیاز به بازنویسی دارد. Technocoin را برای تکمیل عملیات دوباره اجرا کنید.</translation>
+        <source>Wallet needed to be rewritten: restart Winstarrxcoin to complete</source>
+        <translation>wallet نیاز به بازنویسی دارد. Winstarrxcoin را برای تکمیل عملیات دوباره اجرا کنید.</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2866,7 +2866,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Technocoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Winstarrxcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

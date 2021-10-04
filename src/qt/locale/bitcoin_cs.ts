@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Technocoin</source>
-        <translation>O Technocoinu</translation>
+        <source>About Winstarrxcoin</source>
+        <translation>O Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Technocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Technocoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;Winstarrxcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Winstarrxcoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Technocoin developers</source>
-        <translation>Vývojáři Technocoinu</translation>
+        <source>The Winstarrxcoin developers</source>
+        <translation>Vývojáři Winstarrxcoinu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Technocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Technocoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your Winstarrxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé Winstarrxcoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Technocoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Technocoinové adresy</translation>
+        <source>Sign a message to prove you own a Winstarrxcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Winstarrxcoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Technocoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Technocoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Winstarrxcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Winstarrxcoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Technocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Technocoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your Winstarrxcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé Winstarrxcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TECHNOCOINS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY TECHNOCOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WINSTARRXCOINS&lt;/b&gt;!</source>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY WINSTARRXCOINY&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Technocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your technocoins from being stolen by malware infecting your computer.</source>
-        <translation>Technocoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých technocoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Winstarrxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your winstarrxcoins from being stolen by malware infecting your computer.</source>
+        <translation>Winstarrxcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých winstarrxcoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Technocoin</source>
-        <translation>Zobraz informace o Technocoinu</translation>
+        <source>Show information about Winstarrxcoin</source>
+        <translation>Zobraz informace o Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Technocoin address</source>
-        <translation>Pošli mince na Technocoinovou adresu</translation>
+        <source>Send coins to a Winstarrxcoin address</source>
+        <translation>Pošli mince na Winstarrxcoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Technocoin</source>
-        <translation>Uprav nastavení Technocoinu</translation>
+        <source>Modify configuration options for Winstarrxcoin</source>
+        <translation>Uprav nastavení Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Technocoin</source>
-        <translation>Technocoin</translation>
+        <source>Winstarrxcoin</source>
+        <translation>Winstarrxcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Technocoin</source>
-        <translation>O &amp;Technocoinu</translation>
+        <source>&amp;About Winstarrxcoin</source>
+        <translation>O &amp;Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Technocoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Technocoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your Winstarrxcoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými Winstarrxcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Technocoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Technocoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Winstarrxcoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Winstarrxcoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Technocoin client</source>
-        <translation>Technocoin klient</translation>
+        <source>Winstarrxcoin client</source>
+        <translation>Winstarrxcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Technocoin network</source>
-        <translation><numerusform>%n aktivní spojení do Technocoinové sítě</numerusform><numerusform>%n aktivní spojení do Technocoinové sítě</numerusform><numerusform>%n aktivních spojení do Technocoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to Winstarrxcoin network</source>
+        <translation><numerusform>%n aktivní spojení do Winstarrxcoinové sítě</numerusform><numerusform>%n aktivní spojení do Winstarrxcoinové sítě</numerusform><numerusform>%n aktivních spojení do Winstarrxcoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Technocoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Technocoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Winstarrxcoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Winstarrxcoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Technocoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Technocoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. Winstarrxcoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. Winstarrxcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Technocoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Technocoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Winstarrxcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Winstarrxcoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Technocoin-Qt</source>
-        <translation>Technocoin-Qt</translation>
+        <source>Winstarrxcoin-Qt</source>
+        <translation>Winstarrxcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Technocoin after logging in to the system.</source>
-        <translation>Automaticky spustí Technocoin po přihlášení do systému.</translation>
+        <source>Automatically start Winstarrxcoin after logging in to the system.</source>
+        <translation>Automaticky spustí Winstarrxcoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Technocoin on system login</source>
-        <translation>S&amp;pustit Technocoin po přihlášení do systému</translation>
+        <source>&amp;Start Winstarrxcoin on system login</source>
+        <translation>S&amp;pustit Winstarrxcoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Technocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Winstarrxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Technocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Technocoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the Winstarrxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do Winstarrxcoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Technocoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Technocoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Winstarrxcoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Winstarrxcoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -939,13 +939,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>Choose the default subditechnocoin unit to show in the interface and when sending coins.</source>
+        <source>Choose the default subdiwinstarrxcoin unit to show in the interface and when sending coins.</source>
         <translation>Zvol výchozí podjednotku, která se bude zobrazovat v programu a při posílání mincí.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Technocoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat technocoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show Winstarrxcoin addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat winstarrxcoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Technocoin.</source>
-        <translation>Nastavení se projeví až po restartování Technocoinu.</translation>
+        <source>This setting will take effect after restarting Winstarrxcoin.</source>
+        <translation>Nastavení se projeví až po restartování Winstarrxcoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Technocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Technocoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Winstarrxcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Winstarrxcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start technocoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit technocoin: obsluha click-to-pay</translation>
+        <source>Cannot start winstarrxcoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit winstarrxcoin: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Technocoin-Qt help message to get a list with possible Technocoin command-line options.</source>
-        <translation>Seznam parametrů Technocoinu pro příkazovou řádku získáš v nápovědě Technocoinu Qt.</translation>
+        <source>Show the Winstarrxcoin-Qt help message to get a list with possible Winstarrxcoin command-line options.</source>
+        <translation>Seznam parametrů Winstarrxcoinu pro příkazovou řádku získáš v nápovědě Winstarrxcoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Technocoin - Debug window</source>
-        <translation>Technocoin - ladicí okno</translation>
+        <source>Winstarrxcoin - Debug window</source>
+        <translation>Winstarrxcoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Technocoin Core</source>
-        <translation>Jádro Technocoinu</translation>
+        <source>Winstarrxcoin Core</source>
+        <translation>Jádro Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Technocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Technocoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the Winstarrxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy Winstarrxcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Technocoin RPC console.</source>
-        <translation>Vítej v Technocoinové RPC konzoli.</translation>
+        <source>Welcome to the Winstarrxcoin RPC console.</source>
+        <translation>Vítej v Winstarrxcoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Technocoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadej Winstarrxcoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Technocoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Technocoinové adresy</translation>
+        <source>Sign the message to prove you own this Winstarrxcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Winstarrxcoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Technocoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Technocoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Winstarrxcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Winstarrxcoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Technocoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadej Winstarrxcoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Technocoin signature</source>
-        <translation>Vlož Technocoinový podpis</translation>
+        <source>Enter Winstarrxcoin signature</source>
+        <translation>Vlož Winstarrxcoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Technocoin developers</source>
-        <translation>Vývojáři Technocoinu</translation>
+        <source>The Winstarrxcoin developers</source>
+        <translation>Vývojáři Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Technocoin version</source>
-        <translation>Verze Technocoinu</translation>
+        <source>Winstarrxcoin version</source>
+        <translation>Verze Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or technocoind</source>
-        <translation>Poslat příkaz pro -server nebo technocoind</translation>
+        <source>Send command to -server or winstarrxcoind</source>
+        <translation>Poslat příkaz pro -server nebo winstarrxcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: technocoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: technocoin.conf)</translation>
+        <source>Specify configuration file (default: winstarrxcoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: winstarrxcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: technocoind.pid)</source>
-        <translation>PID soubor (výchozí: technocoind.pid)</translation>
+        <source>Specify pid file (default: winstarrxcoind.pid)</source>
+        <translation>PID soubor (výchozí: winstarrxcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=technocoinrpc
+rpcuser=winstarrxcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Winstarrxcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=technocoinrpc
+rpcuser=winstarrxcoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;Winstarrxcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Technocoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Technocoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Winstarrxcoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Winstarrxcoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Technocoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Technocoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Winstarrxcoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Winstarrxcoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Technocoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Technocoin Wiki)</translation>
+        <source>SSL options: (see the Winstarrxcoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Winstarrxcoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Technocoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Technocoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Winstarrxcoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Winstarrxcoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Technocoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Technocoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Winstarrxcoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Winstarrxcoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Technocoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Technocoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Winstarrxcoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Winstarrxcoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

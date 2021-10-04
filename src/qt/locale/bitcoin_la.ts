@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Technocoin</source>
-        <translation>Informatio de Technocoin</translation>
+        <source>About Winstarrxcoin</source>
+        <translation>Informatio de Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Technocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Technocoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Winstarrxcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Winstarrxcoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The Technocoin developers</source>
-        <translation>Technocoin curatores</translation>
+        <source>The Winstarrxcoin developers</source>
+        <translation>Winstarrxcoin curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Technocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones Technocoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your Winstarrxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones Winstarrxcoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Technocoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem Technocoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a Winstarrxcoin address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem Winstarrxcoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Technocoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione Technocoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Winstarrxcoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Technocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Winstarrxcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TECHNOCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WINSTARRXCOINS&lt;/b&gt;!</source>
         <translation>Monitio: Si cassidile tuum cifras et tesseram amittis, tu &lt;b&gt;AMITTES OMNES TUOS NUMMOS BITOS&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>Technocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your technocoins from being stolen by malware infecting your computer.</source>
-        <translation>Technocoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>Winstarrxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your winstarrxcoins from being stolen by malware infecting your computer.</source>
+        <translation>Winstarrxcoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Technocoin</source>
-        <translation>Monstra informationem de Technocoin</translation>
+        <source>Show information about Winstarrxcoin</source>
+        <translation>Monstra informationem de Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Technocoin address</source>
-        <translation>Mitte nummos ad inscriptionem Technocoin</translation>
+        <source>Send coins to a Winstarrxcoin address</source>
+        <translation>Mitte nummos ad inscriptionem Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Technocoin</source>
-        <translation>Muta configurationis optiones pro Technocoin</translation>
+        <source>Modify configuration options for Winstarrxcoin</source>
+        <translation>Muta configurationis optiones pro Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Technocoin</source>
-        <translation>Technocoin</translation>
+        <source>Winstarrxcoin</source>
+        <translation>Winstarrxcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Technocoin</source>
-        <translation>&amp;Informatio de Technocoin</translation>
+        <source>&amp;About Winstarrxcoin</source>
+        <translation>&amp;Informatio de Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Technocoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Technocoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your Winstarrxcoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus Winstarrxcoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Technocoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Technocoin</translation>
+        <source>Verify messages to ensure they were signed with specified Winstarrxcoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>Technocoin client</source>
-        <translation>Technocoin cliens</translation>
+        <source>Winstarrxcoin client</source>
+        <translation>Winstarrxcoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Technocoin network</source>
-        <translation><numerusform>%n activa conexio ad rete Technocoin</numerusform><numerusform>%n activae conexiones ad rete Technocoin</numerusform></translation>
+        <source>%n active connection(s) to Winstarrxcoin network</source>
+        <translation><numerusform>%n activa conexio ad rete Winstarrxcoin</numerusform><numerusform>%n activae conexiones ad rete Winstarrxcoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Technocoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem Technocoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Winstarrxcoin address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem Winstarrxcoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Technocoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  Technocoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. Winstarrxcoin can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  Winstarrxcoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Technocoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio Technocoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Winstarrxcoin address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio Winstarrxcoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Technocoin-Qt</source>
-        <translation>Technocoin-Qt</translation>
+        <source>Winstarrxcoin-Qt</source>
+        <translation>Winstarrxcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Technocoin after logging in to the system.</source>
-        <translation>Pelle Technocoin per se postquam in systema inire.</translation>
+        <source>Automatically start Winstarrxcoin after logging in to the system.</source>
+        <translation>Pelle Winstarrxcoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Technocoin on system login</source>
-        <translation>&amp;Pelle Technocoin cum inire systema</translation>
+        <source>&amp;Start Winstarrxcoin on system login</source>
+        <translation>&amp;Pelle Winstarrxcoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Technocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Technocoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the Winstarrxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis Winstarrxcoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Technocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete Technocoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the Winstarrxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete Winstarrxcoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Technocoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Technocoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Winstarrxcoin.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Winstarrxcoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -938,13 +938,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>Choose the default subditechnocoin unit to show in the interface and when sending coins.</source>
-        <translation>Selige praedefinitam unitam subditechnocoinis monstrare in interfacie et quando nummos mittere</translation>
+        <source>Choose the default subdiwinstarrxcoin unit to show in the interface and when sending coins.</source>
+        <translation>Selige praedefinitam unitam subdiwinstarrxcoinis monstrare in interfacie et quando nummos mittere</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Technocoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones Technocoin in enumeratione transactionum.</translation>
+        <source>Whether to show Winstarrxcoin addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones Winstarrxcoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Technocoin.</source>
-        <translation>Haec configuratio effectiva erit postquam Technocoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting Winstarrxcoin.</source>
+        <translation>Haec configuratio effectiva erit postquam Winstarrxcoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Technocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Technocoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Winstarrxcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Winstarrxcoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start technocoin: click-to-pay handler</source>
-        <translation>Technocoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start winstarrxcoin: click-to-pay handler</source>
+        <translation>Winstarrxcoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Technocoin-Qt help message to get a list with possible Technocoin command-line options.</source>
-        <translation>Monstra nuntium auxilii Technocoin-Qt ut videas enumerationem possibilium optionum Technocoin mandati initiantis.</translation>
+        <source>Show the Winstarrxcoin-Qt help message to get a list with possible Winstarrxcoin command-line options.</source>
+        <translation>Monstra nuntium auxilii Winstarrxcoin-Qt ut videas enumerationem possibilium optionum Winstarrxcoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Technocoin - Debug window</source>
-        <translation>Technocoin - Fenestra debug</translation>
+        <source>Winstarrxcoin - Debug window</source>
+        <translation>Winstarrxcoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Technocoin Core</source>
-        <translation>Technocoin Nucleus</translation>
+        <source>Winstarrxcoin Core</source>
+        <translation>Winstarrxcoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Technocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de Technocoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the Winstarrxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de Winstarrxcoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Technocoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de Technocoin.</translation>
+        <source>Welcome to the Winstarrxcoin RPC console.</source>
+        <translation>Bene ventio in terminale RPC de Winstarrxcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insero inscriptionem Technocoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insero inscriptionem Winstarrxcoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Technocoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Technocoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this Winstarrxcoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem Winstarrxcoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Technocoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Technocoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Winstarrxcoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insere inscriptionem Technocoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insere inscriptionem Winstarrxcoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Technocoin signature</source>
-        <translation>Insere signationem Technocoin</translation>
+        <source>Enter Winstarrxcoin signature</source>
+        <translation>Insere signationem Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Technocoin developers</source>
-        <translation>Technocoin curatores</translation>
+        <source>The Winstarrxcoin developers</source>
+        <translation>Winstarrxcoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Technocoin version</source>
-        <translation>Versio de Technocoin</translation>
+        <source>Winstarrxcoin version</source>
+        <translation>Versio de Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or technocoind</source>
-        <translation>Mitte mandatum ad -server vel technocoind</translation>
+        <source>Send command to -server or winstarrxcoind</source>
+        <translation>Mitte mandatum ad -server vel winstarrxcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: technocoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: technocoin.conf)</translation>
+        <source>Specify configuration file (default: winstarrxcoin.conf)</source>
+        <translation>Specifica configurationis plicam (praedefinitum: winstarrxcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: technocoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: technocoin.pid)</translation>
+        <source>Specify pid file (default: winstarrxcoind.pid)</source>
+        <translation>Specifica pid plicam (praedefinitum: winstarrxcoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Inscriptio: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=technocoinrpc
+rpcuser=winstarrxcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Winstarrxcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
 Hortatur te hanc fortuitam tesseram uti:
-rpcuser=technocoinrpc
+rpcuser=winstarrxcoinrpc
 rpcpassword=%s
 (non est necesse te hanc tesseram meminisse)
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;Technocoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;Winstarrxcoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Technocoin Notificatio&quot
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Technocoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  Technocoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. Winstarrxcoin is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  Winstarrxcoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Technocoin Notificatio&quot
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Technocoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, Technocoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Winstarrxcoin will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, Winstarrxcoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Technocoin Notificatio&quot
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Technocoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de Technocoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the Winstarrxcoin Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de Winstarrxcoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Technocoin Notificatio&quot
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Technocoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio Technocoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Winstarrxcoin</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Technocoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle Technocoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart Winstarrxcoin to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle Winstarrxcoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Technocoin Notificatio&quot
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Technocoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  Technocoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. Winstarrxcoin is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  Winstarrxcoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

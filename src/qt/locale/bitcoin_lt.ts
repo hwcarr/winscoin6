@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Technocoin</source>
-        <translation>Apie Technocoin</translation>
+        <source>About Winstarrxcoin</source>
+        <translation>Apie Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Technocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Technocoin&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;Winstarrxcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Winstarrxcoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+0"/>
-        <source>The Technocoin developers</source>
+        <source>The Winstarrxcoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Technocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tai yra jūsų Technocoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
+        <source>These are your Winstarrxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tai yra jūsų Winstarrxcoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Technocoin address</source>
-        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Technocoin adreso savininkas</translation>
+        <source>Sign a message to prove you own a Winstarrxcoin address</source>
+        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Winstarrxcoin adreso savininkas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Technocoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Technocoin adresas</translation>
+        <source>Verify a message to ensure it was signed with a specified Winstarrxcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Winstarrxcoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Technocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Winstarrxcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -247,8 +247,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TECHNOCOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO TECHNOCOINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WINSTARRXCOINS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO WINSTARRXCOINUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <location line="+0"/>
@@ -274,8 +274,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-56"/>
-        <source>Technocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your technocoins from being stolen by malware infecting your computer.</source>
-        <translation>Technocoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti technocoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Winstarrxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your winstarrxcoins from being stolen by malware infecting your computer.</source>
+        <translation>Winstarrxcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti winstarrxcoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Technocoin</source>
-        <translation>Rodyti informaciją apie Technocoin</translation>
+        <source>Show information about Winstarrxcoin</source>
+        <translation>Rodyti informaciją apie Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Technocoin address</source>
-        <translation>Siųsti monetas Technocoin adresui</translation>
+        <source>Send coins to a Winstarrxcoin address</source>
+        <translation>Siųsti monetas Winstarrxcoin adresui</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Technocoin</source>
-        <translation>Keisti technocoin konfigūracijos galimybes</translation>
+        <source>Modify configuration options for Winstarrxcoin</source>
+        <translation>Keisti winstarrxcoin konfigūracijos galimybes</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Technocoin</source>
-        <translation>Technocoin</translation>
+        <source>Winstarrxcoin</source>
+        <translation>Winstarrxcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Technocoin</source>
-        <translation>&amp;Apie Technocoin</translation>
+        <source>&amp;About Winstarrxcoin</source>
+        <translation>&amp;Apie Winstarrxcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,12 +499,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Technocoin addresses to prove you own them</source>
+        <source>Sign messages with your Winstarrxcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Technocoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Winstarrxcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -535,13 +535,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+47"/>
-        <source>Technocoin client</source>
-        <translation>Technocoin klientas</translation>
+        <source>Winstarrxcoin client</source>
+        <translation>Winstarrxcoin klientas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Technocoin network</source>
-        <translation><numerusform>%n Technocoin tinklo aktyvus ryšys</numerusform><numerusform>%n Technocoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Technocoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Winstarrxcoin network</source>
+        <translation><numerusform>%n Winstarrxcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Winstarrxcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Winstarrxcoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -654,7 +654,7 @@ Adresas: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Technocoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Winstarrxcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,7 +669,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Technocoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Winstarrxcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -735,8 +735,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Technocoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Technocoin adresas.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Winstarrxcoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Winstarrxcoin adresas.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -754,8 +754,8 @@ Adresas: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Technocoin-Qt</source>
-        <translation>Technocoin-Qt</translation>
+        <source>Winstarrxcoin-Qt</source>
+        <translation>Winstarrxcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -817,13 +817,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Technocoin after logging in to the system.</source>
+        <source>Automatically start Winstarrxcoin after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Technocoin on system login</source>
-        <translation>&amp;Paleisti Technocoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start Winstarrxcoin on system login</source>
+        <translation>&amp;Paleisti Winstarrxcoin programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -842,8 +842,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Technocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Technocoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Winstarrxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Winstarrxcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -852,7 +852,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Technocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Winstarrxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Jungtis į Bitkoin tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
     </message>
     <message>
@@ -927,8 +927,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Technocoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Technocoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Winstarrxcoin.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Winstarrxcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -937,12 +937,12 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Choose the default subditechnocoin unit to show in the interface and when sending coins.</source>
+        <source>Choose the default subdiwinstarrxcoin unit to show in the interface and when sending coins.</source>
         <translation>Rodomų ir siunčiamų monetų kiekio matavimo vienetai</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Technocoin addresses in the transaction list or not.</source>
+        <source>Whether to show Winstarrxcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -994,7 +994,7 @@ Adresas: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Technocoin.</source>
+        <source>This setting will take effect after restarting Winstarrxcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1013,7 +1013,7 @@ Adresas: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Technocoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Winstarrxcoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1067,7 +1067,7 @@ Adresas: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start technocoin: click-to-pay handler</source>
+        <source>Cannot start winstarrxcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1217,7 +1217,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Technocoin-Qt help message to get a list with possible Technocoin command-line options.</source>
+        <source>Show the Winstarrxcoin-Qt help message to get a list with possible Winstarrxcoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1237,13 +1237,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Technocoin - Debug window</source>
-        <translation>Technocoin - Derinimo langas</translation>
+        <source>Winstarrxcoin - Debug window</source>
+        <translation>Winstarrxcoin - Derinimo langas</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Technocoin Core</source>
-        <translation>Technocoin branduolys</translation>
+        <source>Winstarrxcoin Core</source>
+        <translation>Winstarrxcoin branduolys</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1252,7 +1252,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Technocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Winstarrxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Technocoin RPC console.</source>
+        <source>Welcome to the Winstarrxcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1446,7 +1446,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1511,7 +1511,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Technocoin address</source>
+        <source>Sign the message to prove you own this Winstarrxcoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1547,8 +1547,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Technocoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Technocoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Winstarrxcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Winstarrxcoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,7 +1563,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Technocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Winstarrxcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1573,8 +1573,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Technocoin signature</source>
-        <translation>Įveskite Technocoin parašą</translation>
+        <source>Enter Winstarrxcoin signature</source>
+        <translation>Įveskite Winstarrxcoin parašą</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1647,7 +1647,7 @@ Adresas: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Technocoin developers</source>
+        <source>The Winstarrxcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,8 +2185,8 @@ Adresas: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Technocoin version</source>
-        <translation>Technocoin versija</translation>
+        <source>Winstarrxcoin version</source>
+        <translation>Winstarrxcoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2195,8 +2195,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or technocoind</source>
-        <translation>Siųsti komandą serveriui arba technocoind</translation>
+        <source>Send command to -server or winstarrxcoind</source>
+        <translation>Siųsti komandą serveriui arba winstarrxcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2215,13 +2215,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: technocoin.conf)</source>
-        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: technocoin.conf)</translation>
+        <source>Specify configuration file (default: winstarrxcoin.conf)</source>
+        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: winstarrxcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: technocoind.pid)</source>
-        <translation>Nurodyti pid failą (pagal nutylėjimą: technocoind.pid)</translation>
+        <source>Specify pid file (default: winstarrxcoind.pid)</source>
+        <translation>Nurodyti pid failą (pagal nutylėjimą: winstarrxcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2298,13 +2298,13 @@ Adresas: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=technocoinrpc
+rpcuser=winstarrxcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Winstarrxcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Technocoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Winstarrxcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Technocoin will not work properly.</source>
-        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Technocoin, veiks netinkamai.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Winstarrxcoin will not work properly.</source>
+        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Winstarrxcoin, veiks netinkamai.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Technocoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Technocoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Winstarrxcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL opcijos (žr.e Winstarrxcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,13 +2805,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Technocoin</source>
-        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Technocoin versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Winstarrxcoin</source>
+        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Winstarrxcoin versijos</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Technocoin to complete</source>
-        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Technocoin</translation>
+        <source>Wallet needed to be rewritten: restart Winstarrxcoin to complete</source>
+        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Winstarrxcoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Technocoin Alert&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Technocoin is probably already running.</source>
-        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Technocoin tikriausiai jau veikia.</translation>
+        <source>Unable to bind to %s on this computer. Winstarrxcoin is probably already running.</source>
+        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Winstarrxcoin tikriausiai jau veikia.</translation>
     </message>
     <message>
         <location line="+64"/>

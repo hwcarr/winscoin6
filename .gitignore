@@ -1,7 +1,7 @@
 src/*.exe
-src/technocoin
-src/technocoind
-src/test_technocoin
+src/winstarrxcoin
+src/winstarrxcoind
+src/test_winstarrxcoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_technocoin
 *.orig
 *.o
 *.patch
-.technocoin
+.winstarrxcoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-technocoin-qt
-Technocoin-Qt.app
+winstarrxcoin-qt
+Winstarrxcoin-Qt.app
 
 # Unit-tests
 Makefile.test
-technocoin-qt_test
+winstarrxcoin-qt_test
 
 # Resources cpp
 qrc_*.cpp

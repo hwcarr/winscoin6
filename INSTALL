@@ -1,9 +1,9 @@
-Building Technocoin
+Building Winstarrxcoin
 
-See doc/readme-qt.rst for instructions on building Technocoin-Qt,
+See doc/readme-qt.rst for instructions on building Winstarrxcoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Technocoin.
+implementation of Winstarrxcoin.
 
-See doc/build-*.txt for instructions on building technocoind,
+See doc/build-*.txt for instructions on building winstarrxcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Technocoin.
+implementation of Winstarrxcoin.
